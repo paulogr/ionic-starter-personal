@@ -7,3 +7,8 @@ $ ionic start myApp https://github.com/paulogr/ionic-starter-personal
 ```
 
 Do this after have Ionic installed, of course.
+
+and install ngCordova dependency
+```
+$ bower install ngCordova --save
+```
